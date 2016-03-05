@@ -1,6 +1,6 @@
 name: Pilot Program
 favicon: null
-layout_spectrum: 0.18111
+layout_spectrum: 0.04513
 typography_spectrum: 0.5373472785577178
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.025449635228142142
+    - '#625243'
+    - '#bcae94'
+    - '#6798da'
+    - '#f8ebe0'
+    - '#2f2311'
+  brandStrength: 0.5625
   lightness: 0.9491933733224869
   saturation: 0.5236643252428621
-  rhythmicContrast: 0.9416271294467151
+  rhythmicContrast: 0.5
 purpose: []
